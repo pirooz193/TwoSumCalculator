@@ -1,6 +1,6 @@
 # TwoSumCalculator
 
-This code implements the TwoSum algorithm to find pairs of numbers in an array that sum up to a given target value. The algorithm assumes that the input array `nums` is sorted in ascending order.
+This code implements an algorithm to find pairs of numbers in an array that sum up to a given target value. The algorithm assumes that the input array `nums` is sorted in ascending order.
 
 ## Algorithm Explanation
 
