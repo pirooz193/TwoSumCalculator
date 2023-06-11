@@ -14,7 +14,7 @@ This code implements the TwoSum algorithm to find pairs of numbers in an array t
    - Decrement `right` by 1 to move to the next possible right element.
 6. If the sum is less than the target, increment `left` by 1 to try a larger number.
 7. If the sum is greater than the target, decrement `right` by 1 to try a smaller number.
-8. Repeat steps 4-7 until `left` becomes greater than or equal to `right`, indicating that all possible pairs have been checked.
+8. Repeat steps until `left` becomes greater than or equal to `right`, indicating that all possible pairs have been checked.
 9. Return the `results` list containing the pairs of numbers that sum up to the target.
 
 ## Example Usage
